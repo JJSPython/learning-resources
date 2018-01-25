@@ -1,11 +1,13 @@
 # Python Learning resources
 
+## Websites and blogs
+- [Python 台灣使用者群組](http://wiki.python.org.tw/)
 
 ## Books
 
 ## Video courses
 
-Pluralsight and egghead are both paid content. But for Pluralsight, there's way to get around it. And Joshua has a pro membership for egghead.
+[Pluralsight](https://www.pluralsight.com/) and [egghead](https://egghead.io/) are both paid content. But for Pluralsight, there's way to[ get around it](https://devopscube.com/pluralsight-free-subscription/). As for egghead, I have a pro membership, let me know if you're interested.
 
 #### Pluralsight
 - [Python Fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals/table-of-contents)
