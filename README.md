@@ -7,7 +7,7 @@
 
 ## Video courses
 
-[Pluralsight](https://www.pluralsight.com/) and [egghead](https://egghead.io/) are both paid content. But for Pluralsight, there's way to[ get around it](https://devopscube.com/pluralsight-free-subscription/). As for egghead, I have a pro membership, let me know if you're interested.
+[Pluralsight](https://www.pluralsight.com/) and [egghead](https://egghead.io/) are both paid content. But for Pluralsight, there's a way to[ get around it](https://devopscube.com/pluralsight-free-subscription/). As for egghead, I have a pro membership, let me know if you're interested.
 
 #### Pluralsight
 - [Python Fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals/table-of-contents)
