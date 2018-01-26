@@ -19,3 +19,9 @@
 #### Egghead
 - [Introduction to the Python 3 Programming Language](https://egghead.io/courses/introduction-to-the-python-3-programming-language)
 - [Introductory Machine Learning Algorithms in Python with scikit-learn](https://egghead.io/courses/introductory-machine-learning-algorithms-in-python-with-scikit-learn)
+
+## IDE
+
+推薦使用[intelliJ](https://www.jetbrains.com/idea/download/)Community版本即可開發Python。
+
+python plugin安裝教學可以參考[這裏](http://blog.csdn.net/muzilanlan/article/details/45645285)
