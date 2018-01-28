@@ -2,6 +2,7 @@
 
 ## Websites and blogs
 - [Python 台灣使用者群組](http://wiki.python.org.tw/)
+- [Pythone Taiwan Facebook](https://www.facebook.com/groups/pythontw/)
 
 ## Books
 
