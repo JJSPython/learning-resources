@@ -1,8 +1,10 @@
 # Python Learning resources
 
-## Websites and blogs
+## Community
 - [Python 台灣使用者群組](http://wiki.python.org.tw/)
 - [Pythone Taiwan Facebook](https://www.facebook.com/groups/pythontw/)
+- [PyCon Taiwan](https://www.facebook.com/pycontw/)
+- [Python Hsinchu User Group](https://www.meetup.com/en-AU/pythonhug)
 
 ## Books
 
