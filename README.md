@@ -1,5 +1,9 @@
 # Python Learning resources
 
+## Docs
+- [Python 3 Documentation](https://docs.python.org/3/)
+- [Python Enhancement Proposals - PEP](https://www.python.org/dev/peps/)
+
 ## Community
 - [Python 台灣使用者群組](http://wiki.python.org.tw/)
 - [Pythone Taiwan Facebook](https://www.facebook.com/groups/pythontw/)
