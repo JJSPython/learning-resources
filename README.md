@@ -27,6 +27,9 @@
 - [Introduction to the Python 3 Programming Language](https://egghead.io/courses/introduction-to-the-python-3-programming-language)
 - [Introductory Machine Learning Algorithms in Python with scikit-learn](https://egghead.io/courses/introductory-machine-learning-algorithms-in-python-with-scikit-learn)
 
+#### DataCamp
+DataCamp offers a lot of [python courses](https://www.datacamp.com/courses/q:python). It's definitely worth checking out :)
+
 ## IDE
 
 推薦使用[intelliJ](https://www.jetbrains.com/idea/download/)Community版本即可開發Python。
