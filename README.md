@@ -12,6 +12,9 @@
 
 ## Books
 
+## Articles
+- [爬蟲始終來自於墮性](https://ithelp.ithome.com.tw/users/20107159/ironman/1325)
+
 ## Video courses
 
 [Pluralsight](https://www.pluralsight.com/) and [egghead](https://egghead.io/) are both paid content. But for Pluralsight, there's a way to[ get around it](https://devopscube.com/pluralsight-free-subscription/). As for egghead, I have a pro membership, let me know if you're interested.
@@ -21,6 +24,7 @@
 - [Python – Beyond the Basics
 ](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
 - [Advanced Python](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents)
+- [Python: The Big Picture](https://app.pluralsight.com/library/courses/python-big-picture/table-of-contents)
 
 
 #### Egghead
