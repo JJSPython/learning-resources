@@ -21,6 +21,7 @@
 
 #### Pluralsight
 - [Python Fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals/table-of-contents)
+- [Python: Getting Started](https://app.pluralsight.com/library/courses/python-getting-started/table-of-contents)
 - [Python – Beyond the Basics
 ](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
 - [Advanced Python](https://app.pluralsight.com/library/courses/advanced-python/table-of-contents)
