@@ -14,6 +14,7 @@
 
 ## Articles
 - [爬蟲始終來自於墮性](https://ithelp.ithome.com.tw/users/20107159/ironman/1325)
+- [Crawler-for-Java](https://github.com/JJSPython/Crawler-for-Java) by [RobertYE](https://github.com/wu87988622)
 
 ## Slides
 - [Python crawling tutorial](https://www.slideshare.net/ChenMingYang/python-crawling-tutorial-87165481)
@@ -36,10 +37,7 @@
 - [Introductory Machine Learning Algorithms in Python with scikit-learn](https://egghead.io/courses/introductory-machine-learning-algorithms-in-python-with-scikit-learn)
 
 #### DataCamp
-DataCamp offers a lot of [python courses](https://www.datacamp.com/courses/q:python). It's definitely worth checking out :)
-
-#### Develop Experience
-[Crawler-for-Java](https://github.com/JJSPython/Crawler-for-Java) by [RobertYE](https://github.com/wu87988622)
+- DataCamp offers a lot of [python courses](https://www.datacamp.com/courses/q:python). It's definitely worth checking out :)
 
 ## IDE
 
